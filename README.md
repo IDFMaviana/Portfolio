@@ -3,7 +3,7 @@
 ### Educação
 Banco de dados - Faculdade impacta - Ago/2021 - Dez/2023
 
-Biomedicina - Universidade Paulista - jan/2017 - Jun/2020 (Interrompido)
+Biomedicina - Universidade Paulista - jan/2017 - Dez/2020 (Interrompido)
 
 ### Skills Técnicas
   * Ferramentas: Python, PowerBI, Excel, SQL, Github, SQL Server Integration Services, AWS.
